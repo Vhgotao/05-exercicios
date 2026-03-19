@@ -10,4 +10,6 @@ public class Usuario {
         this.cpf = cpf;
         this.tipoTarifa = tipoTarifa;
     }
+
+
 }
